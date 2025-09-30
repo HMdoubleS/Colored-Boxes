@@ -1,1 +1,2 @@
-Colored Boxes project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum.
+Colored Boxes project on freeCodeCamp.com for the Certified Full Stack Developer Curriculum.<br>
+This project can be viewed at https://hmdoubles.github.io/Colored-Boxes/
